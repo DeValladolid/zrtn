@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "project_number": "646813974254",
+    "firebase_url": "https://balonmano-zaratan.firebaseio.com",
+    "project_id": "balonmano-zaratan",
+    "storage_bucket": "balonmano-zaratan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646813974254:android:37610c7caaa8ca1e",
+        "android_client_info": {
+          "package_name": "com.bm.zaratan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646813974254-r2hc5ur5spru109fcv1ko10bdivpo8hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEfvvqFBYF_gBClnbFv7ISIdNGQOjfAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646813974254:android:0b511762787f52d3",
+        "android_client_info": {
+          "package_name": "com.app.koran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646813974254-r2hc5ur5spru109fcv1ko10bdivpo8hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEfvvqFBYF_gBClnbFv7ISIdNGQOjfAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646813974254:android:daf3db3c5373cfaf",
+        "android_client_info": {
+          "package_name": "com.app.zrtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646813974254-a8lqush6vu9b4t4h5bqa0p20pud1hv6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.zrtn",
+            "certificate_hash": "9FED9790799F618D7945631C853B8E2627998657"
+          }
+        },
+        {
+          "client_id": "646813974254-j3nirdccgqcbg2vh75g36h5fj1t0s721.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.zrtn",
+            "certificate_hash": "81F4958B9C4472F541121CF4B6D577318B529008"
+          }
+        },
+        {
+          "client_id": "646813974254-r2hc5ur5spru109fcv1ko10bdivpo8hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEfvvqFBYF_gBClnbFv7ISIdNGQOjfAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

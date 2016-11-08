@@ -1,0 +1,117 @@
+<resources>
+
+    <string name="app_name">BM Zaratán</string>
+
+    <string name="app_version">Versión 3.0</string>
+    <string name="developer_email">dev@balonmanozaratan.com</string>
+    <string name="copyright">Copyright © 2016 BM Zaratán. \nTodos los derechos reservados</string>
+    <string name="dialog_about_title">Información</string>
+    <string name="about_text">
+        <![CDATA["La app publica artículos escritos en la web del BM Zaratán."
+            <br/>
+            <br/>Web : <a href="www.balonmanozaratan.com">Confiletas BM Zaratán</a>
+            <br/>Código usado : <a href="code.balonmanozaratan.com">Data Source</a>
+        ]]>
+    </string>
+
+    <string name="activity_title_webview">WebView</string>
+    <string name="activity_title_settings">Configuración</string>
+    <string name="activity_title_send_comment">Enviar Comentario</string>
+
+    <string name="navigation_drawer_open">Abrir panel de navegación</string>
+    <string name="navigation_drawer_close">Cerrar panel de navegación</string>
+
+    <!-- Toolbar menu string -->
+    <string name="title_menu_settings">Configuración</string>
+    <string name="title_menu_rate">Votar</string>
+    <string name="title_menu_about">Información</string>
+    <string name="title_menu_refresh">Refrescar</string>
+    <string name="title_menu_later">Archivar</string>
+    <string name="title_menu_share">Compartir Articulo</string>
+    <string name="title_menu_browser">Abrir en navegador</string>
+
+    <string name="webview_loading">Cargar Página... </string>
+
+    <!--navigation title-->
+    <string name="title_nav_home">Inicio</string>
+    <string name="title_nav_category">Categoría</string>
+    <string name="title_nav_later">Archivado</string>
+    <string name="title_nav_setting">Configuración</string>
+    <string name="title_nav_rate">Votar</string>
+    <string name="title_nav_about">Información</string>
+    <string name="sub_title_nav_others">Otros</string>
+
+    <!-- Activity Setting : xml/setting_preference.xml -->
+    <string name="pref_group_profile">PERFIL</string>
+    <string name="pref_group_notif">NOTIFICACIONES</string>
+    <string name="pref_group_others">OTROS</string>
+    <string name="pref_title_name">Tu Nombre</string>
+    <string name="pref_title_email">Tu Email</string>
+    <string name="pref_title_notif">Notificaciones</string>
+    <string name="pref_title_ringtone">Sonido</string>
+    <string name="pref_title_vibrate">Vibrar</string>
+    <string name="pref_title_copyright">Copyright</string>
+    <string name="pref_title_dev_email">Email del desarrollador</string>
+    <string name="pref_title_build">Versión Actual</string>
+    <string name="pref_title_term">Términos &amp; Condiciones</string>
+    <string name="default_your_name">Anónimo</string>
+    <string name="default_your_email">anonimo@balonmanozaratan.com</string>
+
+    <!-- Other Strings -->
+    <string name="no_internet_text">No hay conexión al servidor</string>
+    <string name="no_post">Sin artículos</string>
+    <string name="no_category">Sin categorías</string>
+    <string name="no_post_found">Nada encontrado :(</string>
+    <string name="failed_text">Error al cargar los datos</string>
+    <string name="failed_text_comment">Error al enviar el comentario.</string>
+    <string name="no_inet_text_comment">No hay conexión a internet</string>
+    <string name="after_send_comment">El estado de tu comentario es</string>
+    <string name="retry_txt">Reintentar</string>
+    <string name="show_tv_comments">Ver Comentarios</string>
+    <string name="send_tv_comments">Enviar Comentarios</string>
+    <string name="count_bt_comments"> comentarios</string>
+    <string name="msg_search_input">Introduce algo para buscar</string>
+    <string name="task_running_msg">Ops, otra acción esta en marcha</string>
+    <string name="post_detail_displayed_msg">Aquí tienes tu artícuo</string>
+    <string name="post_have_no_comment">Este artículo no tiene comentarios</string>
+    <string name="cannot_add_to_read_later">Imposible archivar</string>
+    <string name="remove_from_msg">eliminar de</string>
+    <string name="added_to_msg">añadir a</string>
+    <string name="comments_bottom_message">
+        Tu comentario estará disponible en unos instantes.
+    </string>
+
+    <!--exit notification-->
+    <string name="press_again_exit_app">Presiona otra vez para salir</string>
+
+
+    <string name="direct_to_browser_dialog_title">Abrir navegador</string>
+    <string name="direct_to_browser_dialog_text">
+        You must be registered and logged in to comment.
+        \nDo you want open this post in browser?
+    </string>
+
+    <string name="invalid_name">Nombre no permitido</string>
+    <string name="invalid_email">Email no permitido</string>
+    <string name="invalid_comment">Comentario no permitido</string>
+    <string name="bt_submit">ENVIAR</string>
+    <string name="hint_input_name">Nombre</string>
+    <string name="hint_input_email">Email</string>
+    <string name="hint_input_comment">Comentario</string>
+
+    <!--ADS UNIT ID  -->
+    <!--interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id"></string>
+    <!--banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-5821873603989488/7412993653</string>
+
+    <string name="content_term">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
+        \n\nQuisque facilisis finibus aliquam. Sed mattis, dui fringilla ornare finibus, orci odio blandit risus, ut maximus dui odio non leo. Donec laoreet lacus nisi, a mollis velit suscipit ac. Quisque faucibus ut nisl in congue. Nam sagittis consectetur tempus. Suspendisse eget posuere dui. Donec ultricies velit ex, vel cursus odio sollicitudin in. Nullam faucibus auctor ligula, eu rhoncus dui facilisis a. Curabitur vel feugiat est. Quisque congue at enim eleifend ultrices. Proin dapibus risus lorem, nec condimentum nunc consequat vitae. Quisque sapien lorem, vestibulum vitae justo eget, fringilla eleifend nisi.
+        \n\nMauris ultricies augue sit amet est sollicitudin laoreet. Fusce ut congue felis. Fusce dictum tristique elit nec iaculis. Mauris sodales tempus fringilla. Fusce nec nunc tempus, tempor sapien sit amet, ultricies erat. Mauris ultrices ac lorem ultrices facilisis. Nam pharetra, nisi a imperdiet interdum, nunc justo ultricies nisl, a laoreet massa dui vel enim. Pellentesque et magna ac tellus ullamcorper malesuada a ac nisl. Curabitur id est et neque convallis accumsan. Aliquam eleifend varius massa. Curabitur eu finibus tortor.
+        \n\nVivamus aliquam nisl rutrum orci volutpat porta in ornare est. Quisque ligula ipsum, vulputate id aliquam vitae, semper vitae orci. Nam non pulvinar ligula, eget tincidunt ante. Quisque sapien massa, varius tempus pretium id, vehicula at magna. Ut ut ultrices augue. Nam nec ullamcorper tellus, at finibus lectus. Fusce vel iaculis mauris, id porta nulla. Aenean ac mollis sapien. Morbi imperdiet augue tempus nulla luctus, sit amet feugiat purus elementum.
+    </string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+</resources>
